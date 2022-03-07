@@ -1,2 +1,2 @@
-# MyCaptainAssessment
+# MyCaptainAssignment
 Python Workshop
