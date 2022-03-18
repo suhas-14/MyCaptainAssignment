@@ -5,10 +5,10 @@
 from math import pi
 
 #Taking the input from the user
-r= float(input("Input the radius of the circle: "))
+r = float(input("Input the radius of the circle: "))
 
 #Calculating and printing out the area of a circle with radius given by the user.
-print("The area of the circle with radius " + str(r) + " is: " + str(pi * r**2)) 
+print("The area of the circle is: " + str(pi * r**2)) 
 
 
 
