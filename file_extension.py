@@ -1,8 +1,7 @@
-#Second Task
+#file extension
 
-#User input for the file name
-name = str(input("Enter the file name: "))
+file_name = input("Enter the filename: ")
 
-#Concatinating the file name with the python file extension
-print("The file name is: " + name + ".py")
+exten = file_name.split('.')
 
+print("The extension of the file name is: ", exten[-1:])
